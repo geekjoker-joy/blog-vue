@@ -1,6 +1,6 @@
 <!--管理页面 - 导航栏-->
 <template>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
         <a class="navbar-brand" href="#">Gjy's blogo</a>
         <!--       导航栏折叠后的 折叠按钮-->
         <button class="navbar-toggler" type="button"
