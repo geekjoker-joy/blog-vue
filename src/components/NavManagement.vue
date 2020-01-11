@@ -1,7 +1,7 @@
 <!--管理页面 - 导航栏-->
 <template>
     <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="#">Gjy's blogo</a>
+        <a class="navbar-brand my-2 my-lg-0" href="#">Gjy's blogo</a>
         <!--       导航栏折叠后的 折叠按钮-->
         <button class="navbar-toggler" type="button"
                 data-toggle="collapse"
@@ -18,7 +18,7 @@
             </ul>
             <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                <button class="form-control btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
             </form>
         </div>
     </nav>
